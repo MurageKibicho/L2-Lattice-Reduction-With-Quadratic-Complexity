@@ -1,5 +1,5 @@
-# Pollard's P-1 Factorization Algorithm
-Coding the 1974 paper that introduced the Pollard p-1 factorization algorithm: _Theorems on Factorization and Primality Testing _ (Pollard, 1974). Complete writeup available on [LeetArxiv](https://leetarxiv.substack.com/p/pollards-p-1-factoring-algorithm).
+# L2 Reduction: LLL Algorithm With Quadratic Complexityv
+Coding the 2009 paper that introduced the L2 floating-point reduction algorithm: _An LLL Algorithm With Quadratic Complexity_ (Nguyen & Stehle, 2009). Complete writeup available on [LeetArxiv](https://leetarxiv.substack.com/p/l2-reduction-fast-lll-quadratic-complexity).
 
 ![Screenshot of Paper Abstract](Abstract.png)
 The _1982 paper, Theorems on Factorization and Primality Testing_ (Pollard, 1974) introduces a special-purpose `p-1` algorithm for factoring integers composite integers `N`, into prime factors `p`, where `(p-1)` has small prime factors.
