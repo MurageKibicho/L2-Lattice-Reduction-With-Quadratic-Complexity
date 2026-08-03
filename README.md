@@ -1,4 +1,4 @@
-# L2 Reduction: LLL Algorithm With Quadratic Complexityv
+# L2 Reduction: LLL Algorithm With Quadratic Complexity
 Coding the 2009 paper that introduced the L2 floating-point reduction algorithm: _An LLL Algorithm With Quadratic Complexity_ (Nguyen & Stehle, 2009). Complete writeup available on [LeetArxiv](https://leetarxiv.substack.com/p/l2-reduction-fast-lll-quadratic-complexity).
 
 ![Screenshot of Paper Abstract](Abstract.png)
